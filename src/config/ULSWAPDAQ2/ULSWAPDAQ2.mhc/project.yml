@@ -6,20 +6,20 @@ files:
   security: NON_SECURE
   type: SOURCE
   userChecksum: 99DB74296DF9943C474F4F03A700C790
-- generatedChecksum: 2E483CDF296BD56498A4F1227B81466A
+- generatedChecksum: 43D6ADA064E6551F1B518951A26C6F64
   logicalPath: config/ULSWAPDAQ2
   name: initialization.c
   physicalPath: ''
   security: NON_SECURE
   type: SOURCE
-  userChecksum: 2E483CDF296BD56498A4F1227B81466A
-- generatedChecksum: D346102EE568DF5D25D392F643990CA9
+  userChecksum: 43D6ADA064E6551F1B518951A26C6F64
+- generatedChecksum: EFD2F96D013C2C17C6B2380A49876793
   logicalPath: config/ULSWAPDAQ2
   name: interrupts.c
   physicalPath: ''
   security: NON_SECURE
   type: SOURCE
-  userChecksum: D346102EE568DF5D25D392F643990CA9
+  userChecksum: EFD2F96D013C2C17C6B2380A49876793
 - generatedChecksum: null
   logicalPath: ''
   name: main.c
@@ -27,20 +27,20 @@ files:
   security: NON_SECURE
   type: SOURCE
   userChecksum: null
-- generatedChecksum: F5C7B75F7715BAED96C9871FFB2F4E7C
+- generatedChecksum: A5537A3FD05521C9755D57EF565D812A
   logicalPath: config/ULSWAPDAQ2/peripheral/clk
   name: plib_clk.c
   physicalPath: peripheral/clk
   security: NON_SECURE
   type: SOURCE
-  userChecksum: F5C7B75F7715BAED96C9871FFB2F4E7C
-- generatedChecksum: B559F611965FC5B72574491B7C8ACA1D
+  userChecksum: A5537A3FD05521C9755D57EF565D812A
+- generatedChecksum: 7CF1B38C4CBC41C5E905398700D9EE3B
   logicalPath: config/ULSWAPDAQ2/peripheral/evic
   name: plib_evic.c
   physicalPath: peripheral/evic
   security: NON_SECURE
   type: SOURCE
-  userChecksum: B559F611965FC5B72574491B7C8ACA1D
+  userChecksum: 7CF1B38C4CBC41C5E905398700D9EE3B
 - generatedChecksum: A768A018692EACDD0D07871BC07651AD
   logicalPath: config/ULSWAPDAQ2/peripheral/gpio
   name: plib_gpio.c
@@ -62,20 +62,13 @@ files:
   security: NON_SECURE
   type: SOURCE
   userChecksum: 5C98947D97A9F4DC29747CE7783020FF
-- generatedChecksum: 9447BD155F582DD507CABCE64F36091C
+- generatedChecksum: B94FFA232CEBDBC4A1DB017BCC0F012F
   logicalPath: config/ULSWAPDAQ2/peripheral/tmr
   name: plib_tmr2.c
   physicalPath: peripheral/tmr
   security: NON_SECURE
   type: SOURCE
-  userChecksum: 9447BD155F582DD507CABCE64F36091C
-- generatedChecksum: 6F2FCCBB4C0D2C8451772D4A30FE75E7
-  logicalPath: config/ULSWAPDAQ2/peripheral/tmr
-  name: plib_tmr3.c
-  physicalPath: peripheral/tmr
-  security: NON_SECURE
-  type: SOURCE
-  userChecksum: 6F2FCCBB4C0D2C8451772D4A30FE75E7
+  userChecksum: B94FFA232CEBDBC4A1DB017BCC0F012F
 - generatedChecksum: 78D882820F55A497D8EE7262E1184A3F
   logicalPath: config/ULSWAPDAQ2/peripheral/uart
   name: plib_uart1.c
@@ -90,13 +83,13 @@ files:
   security: NON_SECURE
   type: SOURCE
   userChecksum: 42A948E504602741B0D592C55FCD9A7B
-- generatedChecksum: F054D5734AD9700CCAEE3EFB40A6548D
+- generatedChecksum: FC1B6011BFB1342E761831E9C1016A17
   logicalPath: config/ULSWAPDAQ2
   name: definitions.h
   physicalPath: ''
   security: NON_SECURE
   type: HEADER
-  userChecksum: F054D5734AD9700CCAEE3EFB40A6548D
+  userChecksum: FC1B6011BFB1342E761831E9C1016A17
 - generatedChecksum: E189C26B2269F8DE46033CCD0621958D
   logicalPath: config/ULSWAPDAQ2
   name: device.h
@@ -167,13 +160,6 @@ files:
   security: NON_SECURE
   type: HEADER
   userChecksum: 612994C7F3C27F2CFA2621C1F65D4068
-- generatedChecksum: AB441E032FD7B269DB6B2AA5661A890C
-  logicalPath: config/ULSWAPDAQ2/peripheral/tmr
-  name: plib_tmr3.h
-  physicalPath: peripheral/tmr
-  security: NON_SECURE
-  type: HEADER
-  userChecksum: AB441E032FD7B269DB6B2AA5661A890C
 - generatedChecksum: D948F2CE092CAB556EF299D3CCD83A55
   logicalPath: config/ULSWAPDAQ2/peripheral/tmr
   name: plib_tmr_common.h

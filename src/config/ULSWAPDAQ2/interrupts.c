@@ -62,7 +62,6 @@
 
 void TIMER_1_InterruptHandler( void );
 void TIMER_2_InterruptHandler( void );
-void TIMER_3_InterruptHandler( void );
 void SPI_1_InterruptHandler( void );
 
 
@@ -76,11 +75,6 @@ void __ISR(_TIMER_1_VECTOR, ipl1SOFT) TIMER_1_Handler (void)
 void __ISR(_TIMER_2_VECTOR, ipl1SOFT) TIMER_2_Handler (void)
 {
     TIMER_2_InterruptHandler();
-}
-
-void __ISR(_TIMER_3_VECTOR, ipl1SOFT) TIMER_3_Handler (void)
-{
-    TIMER_3_InterruptHandler();
 }
 
 void __ISR(_SPI_1_VECTOR, ipl1SOFT) SPI_1_Handler (void)

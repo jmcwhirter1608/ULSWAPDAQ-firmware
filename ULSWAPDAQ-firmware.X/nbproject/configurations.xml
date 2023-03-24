@@ -25,7 +25,6 @@
             <logicalFolder name="f2" displayName="tmr" projectFiles="true">
               <itemPath>../src/config/ULSWAPDAQ2/peripheral/tmr/plib_tmr_common.h</itemPath>
               <itemPath>../src/config/ULSWAPDAQ2/peripheral/tmr/plib_tmr2.h</itemPath>
-              <itemPath>../src/config/ULSWAPDAQ2/peripheral/tmr/plib_tmr3.h</itemPath>
             </logicalFolder>
             <logicalFolder name="f6" displayName="tmr1" projectFiles="true">
               <itemPath>../src/config/ULSWAPDAQ2/peripheral/tmr1/plib_tmr1_common.h</itemPath>
@@ -74,7 +73,6 @@
             </logicalFolder>
             <logicalFolder name="f2" displayName="tmr" projectFiles="true">
               <itemPath>../src/config/ULSWAPDAQ2/peripheral/tmr/plib_tmr2.c</itemPath>
-              <itemPath>../src/config/ULSWAPDAQ2/peripheral/tmr/plib_tmr3.c</itemPath>
             </logicalFolder>
             <logicalFolder name="f6" displayName="tmr1" projectFiles="true">
               <itemPath>../src/config/ULSWAPDAQ2/peripheral/tmr1/plib_tmr1.c</itemPath>
@@ -108,7 +106,6 @@
         <itemPath>../src/config/ULSWAPDAQ2/ULSWAPDAQ2.mhc/stdio.yml</itemPath>
         <itemPath>../src/config/ULSWAPDAQ2/ULSWAPDAQ2.mhc/tmr1.yml</itemPath>
         <itemPath>../src/config/ULSWAPDAQ2/ULSWAPDAQ2.mhc/tmr2.yml</itemPath>
-        <itemPath>../src/config/ULSWAPDAQ2/ULSWAPDAQ2.mhc/tmr3.yml</itemPath>
         <itemPath>../src/config/ULSWAPDAQ2/ULSWAPDAQ2.mhc/uart1.yml</itemPath>
       </logicalFolder>
       <itemPath>Makefile</itemPath>

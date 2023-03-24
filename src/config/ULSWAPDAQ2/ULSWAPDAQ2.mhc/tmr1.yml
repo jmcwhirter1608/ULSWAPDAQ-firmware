@@ -30,7 +30,7 @@ children:
     - type: Values
       children:
       - type: User
-        attributes: {value: '25.0'}
+        attributes: {value: '1.0'}
   - type: Combo
     attributes: {id: TIMER_UNIT}
     children:

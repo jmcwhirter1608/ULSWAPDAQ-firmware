@@ -6,7 +6,6 @@ build/ULSWAPDAQ2/production/_ext/1360937237/main.o: ../src/main.c \
  ../src/config/ULSWAPDAQ2/peripheral/uart/plib_uart_common.h \
  ../src/config/ULSWAPDAQ2/peripheral/tmr/plib_tmr2.h \
  ../src/config/ULSWAPDAQ2/peripheral/tmr/plib_tmr_common.h \
- ../src/config/ULSWAPDAQ2/peripheral/tmr/plib_tmr3.h \
  ../src/config/ULSWAPDAQ2/peripheral/clk/plib_clk.h \
  ../src/config/ULSWAPDAQ2/peripheral/gpio/plib_gpio.h \
  ../src/config/ULSWAPDAQ2/peripheral/evic/plib_evic.h \
@@ -29,8 +28,6 @@ build/ULSWAPDAQ2/production/_ext/1360937237/main.o: ../src/main.c \
 ../src/config/ULSWAPDAQ2/peripheral/tmr/plib_tmr2.h:
 
 ../src/config/ULSWAPDAQ2/peripheral/tmr/plib_tmr_common.h:
-
-../src/config/ULSWAPDAQ2/peripheral/tmr/plib_tmr3.h:
 
 ../src/config/ULSWAPDAQ2/peripheral/clk/plib_clk.h:
 
