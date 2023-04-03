@@ -58,10 +58,10 @@
  * These are defined to shutdown PGAs in use
  * True for Shutdown, False for On
  */
-uint8_t A_shdn = 1;
-uint8_t B_shdn = 1;
+uint8_t A_shdn = 0;
+uint8_t B_shdn = 0;
 uint8_t C_shdn = 0;
-uint8_t D_shdn = 1;
+uint8_t D_shdn = 0;
 
 
 /*! 
@@ -70,10 +70,10 @@ uint8_t D_shdn = 1;
 /**
  * PGA Configuration Members
  */
-uint8_t A_config = 0;
-uint8_t B_config = 0;
+uint8_t A_config = 4;
+uint8_t B_config = 4;
 uint8_t C_config = 4;
-uint8_t D_config = 0;
+uint8_t D_config = 4;
 
 /**
  * Configuration word is used to switch the mux within the ADC
@@ -238,6 +238,7 @@ int main ( void )
                 else{
                     NEXT_STATE = END;
                 }
+                
                 
 //            default:
 //                RESET_Set();
